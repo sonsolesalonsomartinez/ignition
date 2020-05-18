@@ -1,2 +1,1 @@
-# ignition
-The matlab code to run the Intrinsic Ignition Method will be available here
+Matlab code to run the measures of brain dynamics as described in "Reduced spatiotemporal brain dynamics are associated with increased depressive symptoms after a relationship breakup" S Alonso Martinez, 2020, based on code developed by Gustavo Deco
